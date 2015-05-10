@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+pytest-django
+pytest-xdist
+psycopg2
+coverage
